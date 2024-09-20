@@ -2,6 +2,7 @@
 Containerization refers to using containers in running a program/content management system.
 Even though the two sound similar, there are differences between a container and a virtual machine, and there are also different situations
 where one of the two would be more effective as opposed to the other.
+
 ![Containerization](https://github.com/dfianuale/IS373/blob/main/graphics/c1.jpg)
 
 ## What is a Container and how does it work?
@@ -47,6 +48,6 @@ To remove a Docker image:
 > docker rmi [image id]
 
 Sources:
-<https://learn.microsoft.com/en-us/virtualization/windowscontainers/about/containers-vs-vm>
-<https://www.geeksforgeeks.org/virtualization-vs-containerization/>
-ChatGPT
+* <https://learn.microsoft.com/en-us/virtualization/windowscontainers/about/containers-vs-vm>
+* <https://www.geeksforgeeks.org/virtualization-vs-containerization/>
+* ChatGPT
