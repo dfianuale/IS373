@@ -1,6 +1,7 @@
 # Virtualization
 When dealing with content management systems, virtualization will most commonly refer to using a virtual machine (VM).
 As a whole, the term refers to creating a virtual version of something, such as a document or a database, to give some examples.
+(IS373/graphics/cv1.png "Diagram showing the difference between container and VM structure")
 
 ## What is a Virtual Machine?
 A VM is an emulation of a computer, which includes its kernel and operating system (the latter is called the "guest machine"), that runs on a user's computer (referred to as the "host machine").
@@ -17,7 +18,9 @@ emulation of communication between two or more computers.
 
 ## Oracle VirtualBox
 There are many softwares available online that can be used to create and run a virtual machine. Such softwares are called "hypervisors", and a few examples of commonly used hypervisors are Oracle VirtualBox, VMWare Workstation, and Microsoft Hyper-V, among others.
-This documentation will teach how to install and use Oracle VirtualBox. VirtualBox is a Type 2 hypervisor (hosted), which means the VM runs inside of a dedicated test environment on one's operating system. Some hypervisors are Type 1 (bare-metal) instead, meaning they run the VM directly on the host machine's hard drive.
+This documentation will teach how to install and use Oracle VirtualBox. 
+(IS373/graphics/v2.webp "Oracle VM VirtualBox")
+VirtualBox is a Type 2 hypervisor (hosted), which means the VM runs inside of a dedicated test environment on one's operating system. Some hypervisors are Type 1 (bare-metal) instead, meaning they run the VM directly on the host machine's hard drive.
 
 Before setting up a VM, there are some prerequisites that must be met:
 * Your machine must support virtualization (this can be checked from BIOS or UEFI on startup)
