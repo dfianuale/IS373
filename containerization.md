@@ -2,7 +2,7 @@
 Containerization refers to using containers in running a program/content management system.
 Even though the two sound similar, there are differences between a container and a virtual machine, and there are also different situations
 where one of the two would be more effective as opposed to the other.
-(IS373/graphics/c1.jpg "A graphic showing the structure of a container")
+![Containerization](IS373/graphics/c1.jpg "A graphic showing the structure of a container")
 
 ## What is a Container and how does it work?
 A container is an isolated entity that runs on top of an operating system's kernel and is separate from other containers, that contains applications and some OS APIs. They also contain all libraries or dependencies that are required by those applications.
@@ -12,7 +12,7 @@ since programs running in different containers will not affect one another. They
 Containers can also be scaled up or down depending on the applications being run, and their requirements.
 
 ## Docker
-(IS373/graphics/c2.png "A graphic showing the Docker architecture")
+![Docker](IS373/graphics/c2.png "A graphic showing the Docker architecture")
 Docker is a program for Windows, Linux, and Mac that allows users to create their own localized containers, which can then be used to
 develop, ship, and run applications. It is one of the most popular alongside Kubernetes.
 
