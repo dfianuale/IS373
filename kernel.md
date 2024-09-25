@@ -2,6 +2,8 @@
 When thinking about a kernel in the context of a Content Management System (CMS), it usually refers to the core component or a framework that is responsible for handing the system's overall functionality.
 Basically, a kernel is a piece of the entire system that essentially controls what the other components do.
 
+![Kernel](https://github.com/swk5-njit/IS373/blob/main/graphics/Kernel_Layout.svg)
+
 # Core Functionality Of A Kernel
 As said earlier, a kernel offers the basic features that ultimately allows the Content Management System to operate, which includes but is not limited to the following:
 - Content Storage & Retrieval: The process of managing how the overall content is stored through things such as databases and ultimately retrieved for display on the front end for users.
