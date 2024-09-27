@@ -51,3 +51,4 @@ Sources:
 * <https://learn.microsoft.com/en-us/virtualization/windowscontainers/about/containers-vs-vm>
 * <https://www.geeksforgeeks.org/virtualization-vs-containerization/>
 * ChatGPT
+* https://www.ibm.com/blog/the-benefits-of-containerization-and-what-it-means-for-you/
