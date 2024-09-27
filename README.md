@@ -1,2 +1,5 @@
 # IS373
-# Tech
+
+# A beginner's guide to Information Architecture
+
+
